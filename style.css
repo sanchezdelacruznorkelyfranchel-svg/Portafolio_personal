@@ -6,12 +6,12 @@
 
 body{
     font-family:Arial, sans-serif;
-    background:#f4f4f4;
+    background:#f8f5f2;
     color:#333;
 }
 
 header{
-    background:#4CAF50;
+    background:#d8c3a5;
     color:white;
     text-align:center;
     padding:30px;
@@ -35,7 +35,7 @@ section{
 }
 
 h2{
-    color:#4CAF50;
+    color:#8b6f47;
     margin-bottom:10px;
 }
 
@@ -48,7 +48,7 @@ li{
 }
 
 footer{
-    background:#333;
+    background:#8b6f47;
     color:white;
     text-align:center;
     padding:15px;
